@@ -1,6 +1,6 @@
 {
   "name": "find-marker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple and lightweight package to find a marker file in a directory tree.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
