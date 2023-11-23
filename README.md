@@ -1,6 +1,6 @@
 # Find the closest arbitrary marker file
 
-![npm-badge](!https://badgen.net/npm/v/find-marker/red?icon=npm)
+![npm-badge](https://img.shields.io/npm/v/find-marker)
 
 ## Usage
 
